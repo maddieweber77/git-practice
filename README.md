@@ -1,16 +1,16 @@
-# Git Practice
+# git-practice
 
 André Schnyder Castello Branco
 
 Connor Burns
 
-James Corriveau - "Dumplin"
+James Corriveau
 
 Devin Gomez
 
-Ethan Hessler - I like pizza
+Ethan Hessler
 
-Becca Jonas Favorite Movie: The Dark Knight
+Becca Jonas
 
 Christopher Kim
 
@@ -24,4 +24,4 @@ Lohan Myles
 
 Marco Upia
 
-Madelyn Weber - None
+Madelyn Weber - Finding Nemo
