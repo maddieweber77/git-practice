@@ -1,14 +1,18 @@
-# git-practice
+# Git Practice
 
 André Schnyder Castello Branco
 
 Connor Burns
 
-James Corriveau
+James Corriveau - "Dumplin"
 
 Devin Gomez
 
+<<<<<<< HEAD
 Ethan Hessler - I like pizza
+=======
+Ethan Hessler - None
+>>>>>>> main
 
 Becca Jonas
 
