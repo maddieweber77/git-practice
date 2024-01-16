@@ -8,7 +8,11 @@ James Corriveau - "Dumplin"
 
 Devin Gomez
 
+<<<<<<< HEAD
+Ethan Hessler - I like pizza
+=======
 Ethan Hessler - None
+>>>>>>> main
 
 Becca Jonas
 
