@@ -1,4 +1,4 @@
-# git-practice
+# Git Practice
 
 André Schnyder Castello Branco
 
