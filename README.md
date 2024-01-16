@@ -8,7 +8,7 @@ James Corriveau - "Dumplin"
 
 Devin Gomez
 
-Ethan Hessler
+Ethan Hessler - None
 
 Becca Jonas
 
