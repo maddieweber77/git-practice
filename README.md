@@ -1,14 +1,14 @@
-# git-practice
+# Git Practice
 
 André Schnyder Castello Branco
 
 Connor Burns
 
-James Corriveau
+James Corriveau - "Dumplin"
 
 Devin Gomez
 
-Ethan Hessler
+Ethan Hessler - I like pizza
 
 Becca Jonas Favorite Movie: The Dark Knight
 
